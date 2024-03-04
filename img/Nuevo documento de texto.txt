@@ -1,0 +1,16 @@
+<div class="row my-2 mx-auto">
+                        <div class="col-4">
+                            <div class="card_product p-2">
+                                <img src="./img/reboque.jpg" alt="Body - Ropa - Bebé - Varón">
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="card_product p-2">
+                                <img src="./img/pincel.jpg" alt="Vestido - Ropa - Bebé - Nena">
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="card_product p-2">
+                                <img src="./img/pintura.jpeg" alt="Short - Bebé - Nena - Varón - Ropa">
+                            </div>
+                        </div>
