@@ -65,9 +65,9 @@ h1,h2,h3,h4,h5,h6{
     padding-right: 30%;
 }
 .img--redes{
-    margin-inline-start: auto;
-    margin-inline-end: auto;
-    border-radius: 0.3rem;
+    padding-left: 15%;
+    padding-right: 30%;
+    border-radius: 5rem;
     overflow-y: auto;
     background-size:cover;
     background-repeat: no-repeat;
@@ -78,14 +78,17 @@ h1,h2,h3,h4,h5,h6{
     
     
 }
-.img--redes--bg--mama{
+.img--redes--bg--reboque{
     background-image: url(./img/reboque.jpg);
 }
-.img--redes--bg--bebe{
+.img--redes--bg--pincel{
     background-image: url(./img/pincel.jpg);
 }
-.img--redes--bg--prendas{
+.img--redes--bg--pintura{
     background-image: url(./img/pintura.jpeg);
+}
+.img--redes--bg--barrer{
+    background-image: url(./img/barrer.jpg);
 }
 /* Seccion Footer */
 .footer--container{
